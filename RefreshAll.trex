@@ -7,7 +7,7 @@
     <author name="Kareem Abdelkader" email="kareem.abdelkader@roche.com" organization="Roche" website="https://roche.com"/>
     <min-api-version>0.9</min-api-version>
     <source-location>
-      <url>https://roche.com/autorefresh-datasources-tableau/</url>
+      <url>https://hell-k.github.io/tableau-auto-refresh/</url>
     </source-location>
     <icon></icon>
     <context-menu>
