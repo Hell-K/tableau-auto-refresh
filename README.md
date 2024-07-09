@@ -1,22 +1,9 @@
-# Refresh All Data Sources
+# Tableau Auto Refresh Extension - Modified
 
-A simple example of a way to auto refresh all data sources present on a Tableau dashboard at regular time intervals.
+**This is a very slightly modified version of Star Schema's Auto Refresh Extension**
 
-## How to use
+For more information:
 
-### Using directly from my server
-
-Download the `RefreshAll.trex` file from this repo and drag in the extension, select **My Extension** and select the downloaded .trex file.
-
-### Self Hosted
-
-Download the complete source repository, customize the JS and HTML if needed and host them in your web server. Update the url in the .trex file with the web server where extension is hosted.
-
-```xml
-...
-<url>https://yourcompany.com/autorefresh-datasources-tableau/</url>
-...
-
-```
-
-_Main source for refreshing the data source is forked from https://github.com/KeshiaRose/refresh-all-example_
+- [Auto Refresh by Star Schema in the Tableau Extensions Gallery](https://extensiongallery.tableau.com/extensions/115?version=2021.1&per-page=200)
+- [Auto Refresh blog post from Star Schema](https://databoss.starschema.net/auto-refresh-tableau-dashboard-without-embedding/)
+- [Auto Refresh Source on GitLab](https://gitlab.com/brilliant-data/tableau-refresh-extension/-/tree/master)
