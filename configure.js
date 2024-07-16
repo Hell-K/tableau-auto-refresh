@@ -5,7 +5,7 @@
 // Wrap everything in an anonymous function to avoid polluting the global namespace
 (function () {
   const STUB=false;
-  const DEFAULT_REFRESH_INTERVAL = "10";
+  const DEFAULT_REFRESH_INTERVAL = "15";
 
   // STORE HANDLING
   // ------------------------------------------------------------
